@@ -35,7 +35,10 @@
 			},
 			"extensions": [
 				"mtxr.sqltools",
-				"mtxr.sqltools-driver-pg"
+				"mtxr.sqltools-driver-pg",
+				"esbenp.prettier-vscode",
+				"mhutchie.git-graph",
+				"PulkitGangwar.nextjs-snippets"
 			]
 		}
 	}
